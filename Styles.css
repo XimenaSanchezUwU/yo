@@ -19,3 +19,9 @@ h1.Titulo{
     font-family: 'Courier New', Courier, monospace;
     color: rgb(153, 130, 255);
 }
+
+h1.Bio{
+    font-size: 55;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(55, 86, 224);
+}
