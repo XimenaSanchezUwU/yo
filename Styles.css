@@ -25,3 +25,9 @@ h1.Bio{
     font-family: 'Courier New', Courier, monospace;
     color: rgb(55, 86, 224);
 }
+
+h1.Hd{
+    font-size: 12;
+    font: 1em sans-serif;
+    color: rgb(148, 107, 150);
+}
